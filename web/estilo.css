@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    font-size: 15px;
+}
+
+h2{
+    text-align: right;
+}
+
+h1{font-size: 16px;
+    text-align: left;
+}
